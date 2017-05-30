@@ -6,7 +6,7 @@ SOURCES=Object.cpp Item.cpp Key.cpp Room.cpp Inventory.cpp player.cpp Enemy.cpp 
 
 OBJECTS=$(SOURCES:.cpp=.o)
 
-EXECUTABLE=game.exe
+EXECUTABLE=game
 
 
 
