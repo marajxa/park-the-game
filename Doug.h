@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "Enemy.h"
-#include "inventory.h"
+#include "Inventory.h"
 
 using namespace std;
 
